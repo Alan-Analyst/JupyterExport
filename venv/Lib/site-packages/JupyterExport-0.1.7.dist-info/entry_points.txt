@@ -1,0 +1,4 @@
+[console_scripts]
+JR = JupyterExport.main:main
+JupyterExport = JupyterExport.main:main
+jupyterexport = JupyterExport.main:main

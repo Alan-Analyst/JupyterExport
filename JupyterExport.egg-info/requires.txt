@@ -1,0 +1,5 @@
+customtkinter
+nbformat
+nbconvert
+IPython
+Pygments
